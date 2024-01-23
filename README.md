@@ -1,5 +1,8 @@
 # Beyond-Sentiment-An-algorithmic-strategy-for-identifying-evaluations-within-large-text-corpora
-The repository contains the scripts, data files, and additional material that were used in the article “Beyond Sentiment: An algorithmic strategy for identifying evaluations within large text corpora" published in Communication Methods and Measures
+The repository contains the scripts, data files, and additional material that were used in the article “Beyond Sentiment: An algorithmic strategy for identifying evaluations within large text corpora" published in Communication Methods and Measures.
+
+To cite: Overbeck, M., Baden, C., Aharoni, T., Amit-Danhi, E., & Tenenboim Weinblatt, K. (2023). Beyond sentiment: An algorithmic strategy for identifying evaluations within large text corpora. Communication Methods and Measures, 1–22. https://doi.org/10.1080/19312458.2023.2285783
+
 1.	The Supplementary Material.docx file with all the supplementary material (S1-S5) used for this article. 
 2.	The SVM_Classification_Script.R script used for the SVM-based evaluations classifier and its comparison against sentiment-dictionary based automated classifiers 
 3.	The SVM_Classification_Twitter.R script that uses the same SVM-Classifer but additionally calculates performance specifically for Twitter or Media Data in the test-sets 
